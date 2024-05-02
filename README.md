@@ -5,4 +5,5 @@ This extension adds a context menu option when right-clicking on audit issues to
 ## Usage
 1. Select the issues that you would like to sum
 2. Right-click and go to "Extensions > Count unique issues"
-3. Check your extension output tab
+3. Select the severity of the issues you would like to count
+4. Check your extension output tab
